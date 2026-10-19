@@ -11,4 +11,4 @@ This repository contains supporting materials for the project:
 The application was designed to support IT project management through a web-based interface.
 
 ## Project Type
-Academic project Bachelor's degree in Software Engineering.
+This project was developed collaboratively as part of a Bachelor's degree in Software Engineering.
