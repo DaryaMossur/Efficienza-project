@@ -12,3 +12,8 @@ The application was designed to support IT project management through a web-base
 
 ## Project Type
 This project was developed collaboratively as part of a Bachelor's degree in Software Engineering.
+
+## My Contribution
+- Created technical documentation describing the application's functionality and requirements.
+- Designed and configured the NoSQL database and integrated it with the application.
+- Tested the completed application to verify its functionality and identify potential issues.
